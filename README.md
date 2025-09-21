@@ -4,7 +4,7 @@ This project is an MSc Artificial Intelligence and Robotics dissertation project
 
 The system explores multiple machine learning models and evaluates their effectiveness in predicting song popularity and recommending tracks based on audio features, genre, and historical listening behaviour.
 
-🚀 Features
+ Features
 
 Pre-processing and feature extraction from large-scale music datasets (Kaggle).
 
@@ -44,7 +44,7 @@ data_by_artist.csv → Features grouped by artist.
 
 Attributes include both audio features (e.g., tempo, acousticness, energy, instrumentalness) and metadata (year, explicit lyrics, popularity score).
 
-🛠️ Tech Stack
+ Tech Stack
 
 Python
 
@@ -55,8 +55,7 @@ ML Models: Logistic Regression, Random Forest, SVM, KNN, Gradient Boosting, XGBo
 Dimensionality Reduction: PCA, t-SNE
 
 Clustering: K-Means
-
-📈 Results
+ Results
 
 Random Forest achieved the highest classification accuracy (82.7%).
 
